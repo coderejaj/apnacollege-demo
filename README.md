@@ -1,7 +1,8 @@
 # apnacollege-demo
+
 This is my first Repository.
 <br>
-Author - Md Ejaj
+Author - Md (apna college)
 
 6 June 25
 <br>
